@@ -1,0 +1,26 @@
+body
+{
+	background: orange
+}
+li
+{
+	border:2px green solid;
+}
+#id1{
+	color: white;
+	background-color: black
+}
+.bhavani
+{
+	font-style: Bold;
+	font-family: arial;
+	color: White;
+	background-color: blue;
+}
+.ra
+{
+	font-style: italic;
+	font-family: arial;
+	color: black;
+	background-color: white;
+}

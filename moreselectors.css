@@ -1,0 +1,36 @@
+/*Elements*/
+li{
+
+}
+/*Class*/
+.hello{
+
+}
+/*ID*/
+#bha{
+
+}
+/*star*/
+*{
+	border:1px solid lightgrey;
+}
+/*Descendant selectore*/
+ li a{
+
+color:red;
+}
+/*Adjacent Selector*/
+
+h4+ul
+{
+	border:4px solid grey;
+}
+/*Attribute Selector*/
+a [href="http://www.google.com"]{
+	background : blue;
+}
+/*Nth of type*/
+ul:nth-of-type(3){
+	background: purple;
+
+}

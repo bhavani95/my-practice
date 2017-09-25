@@ -1,0 +1,19 @@
+h1{
+	color:red;
+	/*border-color: white;
+	border-width: 5px;
+	border-style: solid;*/
+	border: white 5px  dashed;
+
+}
+li{
+	color:purple;
+}
+h4{
+	background-color: rgb(100,0,0);
+	color:green;
+}
+body{
+     background-repeat: 2;
+	background: url(https://2.bp.blogspot.com/--L1u7Ui_c8A/V5PYQapebwI/AAAAAAAADAg/HeCs9XgFU9Inu3TbUa1WFYWRb5kLvaEwQCLcB/s1600/Green%2BParrot%2BWallpapers%2BHD%2B7.jpg);
+}
