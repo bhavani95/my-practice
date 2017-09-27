@@ -1,5 +1,39 @@
-#row1{
-	margin-left: 2px;
-	border:red 2px solid;
-	background: pink;
+body{
+	background-color: pink;
 }
+table{
+	background-color: yellow;
+	
+}
+tr{
+	width: 100px;
+	height: 100px;
+}
+td{
+	width: 100px;
+	height: 100px;
+	/*border : white 10px solid;*/
+
+}
+.co{
+	border-left: 10px red solid;
+	border-right: 10px red solid;
+	
+}
+.ro{
+	border-top: 10px red solid;
+	border-bottom: 10px red solid;
+}
+h1{
+	text-align: center;
+}
+
+
+/*#ro{
+	border-top: 10px red solid;
+	border-bottom: 10px red solid;
+}
+/*#b{*/
+	/*border-right: 10px red;
+	border-color: red;
+}*/
