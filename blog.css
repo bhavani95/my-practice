@@ -1,0 +1,46 @@
+#one{
+	font-family: arial;
+	font-size: 16px;
+	width: 90%;
+	border-left: grey 3px solid;
+	padding-left: 10px;
+
+
+}
+#two{
+	font-family: arial;
+	font-size: 16px;
+	width: 90%;
+	/*border-left: white 3px solid;*/
+
+}
+#three{
+	font-family: arial;
+	font-size: 16px;
+	width: 90%;
+	border-bottom: 3px grey solid;
+     padding-bottom: 15px;
+     /*border-left: white 3px solid;
+*/
+}
+.cls{
+	margin-left: 20%;
+	margin-right: 20%;
+	border: Grey 10px solid;
+	padding: 5px;
+}
+
+h1{
+font-family: georgia;
+color: blue;
+font-style: italic;
+text-align: left;
+padding-left: 20px;
+}
+h3{
+	text-align: right;
+	border-bottom: green 5px solid;
+	padding-bottom: 5px;
+	margin-left: 30px;
+	width:30%;
+}
