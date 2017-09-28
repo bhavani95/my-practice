@@ -1,0 +1,16 @@
+img{
+	width:30%;
+	float:left;
+	margin: 1.66%;
+	height:150px;
+}
+h1{
+	font-family: arial;
+	font-size: 25px;
+	font color: black;
+	font-style: italic;
+	border-bottom: red solid 3px;
+	width:30%;
+	padding-bottom: 30px;
+
+}
