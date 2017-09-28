@@ -1,0 +1,33 @@
+h1{
+	text-transform: capitalize;
+	color: #116031;
+
+}
+body{
+	background:url(http://p1.pichost.me/i/16/1394275.jpg);
+    border:#334f59 solid 10px;
+    margin:5% 15%;
+    padding-bottom: 20px;
+}
+#address{
+	color: #164577;
+	font-family: times;
+	font-style: bold;
+	/*margin-left: 10%;
+	margin-right: 10%;*/
+
+}
+label{
+	border-bottom: #164577 2px solid;
+
+	font-family: times;
+	
+	/*margin-left: 10%;
+	margin-right: 10%;*/
+	padding-bottom: 5px;
+}
+.one{
+	margin-left: 10%;
+	margin-right: 10%;
+
+}
