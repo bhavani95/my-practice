@@ -11,16 +11,16 @@ body{
 }
 #address{
 	color: #164577;
-	font-family: times;
-	font-style: bold;
+	font-family: arial;
+	/*font-style: bold;*/
 	/*margin-left: 10%;
 	margin-right: 10%;*/
 
 }
-label{
+#lab{
 	border-bottom: #164577 2px solid;
 
-	font-family: times;
+	font-family: arial;
 	
 	/*margin-left: 10%;
 	margin-right: 10%;*/
@@ -29,5 +29,7 @@ label{
 .one{
 	margin-left: 10%;
 	margin-right: 10%;
+	font-family: arial;
+
 
 }
