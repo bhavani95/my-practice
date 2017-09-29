@@ -1,0 +1,5 @@
+class= container //gives some space, kind of a margin.
+class= btn btn-info btn-lg
+btn btn-success btn-xs
+btn btn-danger btn-xs
+jumbotron-gives a blog look
