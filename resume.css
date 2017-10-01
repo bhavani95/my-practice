@@ -46,3 +46,9 @@ img{
 table{
 	padding-top: 10px;
 }
+td{
+	text-align: center;
+}
+ul{
+	padding-bottom: 10px;
+}
