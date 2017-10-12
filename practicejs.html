@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Practice with onclick event and functions of java script</title>
+	<script type="text/javascript">
+		function callme(name){
+			document.write("welcome"+(name.value)+" to java script")
+		}
+	</script>
+</head>
+<body bgcolor="green">
+	<form>
+	<input type="text" id="name" placeholder="enter your name"/>
+	
+
+	<input type="button" id="click" value="click" onclick="callme(name.value)"/>
+</form>
+
+</body>
+</html>
