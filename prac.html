@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>practice with java script</title>
+	<script type="text/javascript">
+		function prac(text){
+			document.write("Hi your email "+(text)+ "got signed up");
+
+          
+
+		}
+		function on(){
+			alert("Hi good morning");
+		}
+	</script>
+</head>
+<body bgcolor="orange" onload="on()" onreset="alert('The input will get reset')"/>
+	Enter your email here:
+	<input type="text" id="text" placeholder="email here"/>
+	<input type="password" placeholder="password" id="pwd">
+	<br>
+	<input type="button" value="Sign up" onclick="prac(text.value)"/>
+     <input type="reset" value="reset">
+</body>
+</html>
