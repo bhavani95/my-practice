@@ -7,13 +7,15 @@
 	<script type="text/javascript">
 		var abc=new String("bhavani");
 		document.write(abc+" <br>");
+		var days=new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday");
 		
 		document.write(abc.length);
 		var d=new Date();
 		var date =d.getDate();
 		var mon=d.getMonth();
 		var year=d.getYear();
-		document.write("<br>the date is "+date+"-"+mon+"-"+year);
+		var day1=d.getDay();
+		document.write("<br>the date is "+date+"-"+mon+"-"+year+"The day is "+days[day1]);
 	</script>
 
 </body>
